@@ -9,4 +9,4 @@ let age = "28";
 let currentYear = "2022";
 let birthYear = currentYear - age;
 
-console.log(birthYear)
+console.log("My birth year is", birthYear)
